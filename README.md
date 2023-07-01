@@ -1,4 +1,5 @@
 Social DIstancing And Face Mask Detector
+(IIP PROJECT)
 
 
 Project Idea: 
